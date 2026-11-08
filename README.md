@@ -5,7 +5,7 @@
 
 **个人项目 · AI 工作流 · 信息整理 · 个人效率工具**
 
-[打开工作台](https://oo1007.github.io/ai-productivity-workbench/) · [查看简报样例](https://oo1007.github.io/ai-productivity-workbench/brief.html) · [返回作品集](https://github.com/oo1007)
+[打开工作台](https://oo1007.github.io/ai-productivity-workbench/) · [历史简报样例（2026-06-29）](https://oo1007.github.io/ai-productivity-workbench/world_hot_dashboard_2026-06-29.html) · [返回作品集](https://github.com/oo1007)
 
 ## 项目解决什么问题
 
@@ -24,7 +24,7 @@
 1. 打开工作台，在输入框描述一件行动，例如“明天下午 3 点到 4 点学习”。
 2. 点击解析，检查识别出的事项、日期、时间和分类，并尝试手动修改。
 3. 查看连接状态，理解“草稿”和“已同步日程”的区别。
-4. 进入每日简报，查看资讯如何分类、引用来源并按日期归档。
+4. 打开上方历史简报样例，查看资讯如何分类和引用来源。工作台的每日简报入口可能展示采集状态页。
 
 **外部访客未启动本地同步服务时，可以查看页面与解析交互，但无法直接同步到作者的日历。** 当前仓库没有包含该同步服务的完整后端。
 
